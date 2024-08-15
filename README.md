@@ -1,5 +1,6 @@
 
 # Rice Seed Classification
+Deep learning model to categorize rice images according to their types.
 
 This project implements a Convolutional Neural Network (CNN) model to classify images of rice seeds into different categories. The project uses TensorFlow to preprocess the data, build the model, and evaluate its performance.
 
